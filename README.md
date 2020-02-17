@@ -5,8 +5,7 @@ The main idea behind this project is to draw a two-dimensional figure that will 
 To make it more clear, here is an visual example of what i'm talking about (2D Mode is where we draw the two-dimensional figure and 3D Mode is where the 3D figure is generated):
 
 
-![animacion](./readme assets/Demo.gif)
-
+<img align="center" src="readme assets/Demo.gif" alt="Demo gif"></img>
 <div align="center"><b>Figure 1 - Solid of revolution Demo</b></div>
 
 
@@ -16,8 +15,7 @@ As you can already tell, we have 2 main screens:
 
 - **2D Mode**
 
-  ![animacion](readme assets/2D Mode.gif)
-
+  <img align="center" src="readme assets/2D Mode.gif" alt="2D Mode gif"></img>
   <div align="center"><b>Figure 2 - 2D Mode</b></div>
   
   
@@ -34,7 +32,7 @@ This mode is accessed from the 2D Mode when hitting the `M key`, and here is whe
 
 
 
-![3D-Mode](readme assets/3D Mode.gif)
+<img align="center" src="readme assets/3D Mode.gif" alt="3D Mode gif"></img>
 
 <div align="center"><b>Figure 3 - 3D Mode</b></div>
 
@@ -42,8 +40,7 @@ This mode is accessed from the 2D Mode when hitting the `M key`, and here is whe
 As we can see in the **Figure 3** all the short-cuts for this mode are shown if we hit the  `H key` which will lead to a screen that looks like the **figure 4**:
 
 
-
-![3D Mode short cuts](readme assets/3D Mode short cuts.PNG)
+<img align="center" src="readme assets/3D Mode short cuts.PNG" alt="3D Mode Short-cuts"></img>
 
 <div align="center"><b>Figure 4 - 3D Mode short cuts</b></div>
 
